@@ -1,1 +1,1 @@
-Hello! I have created a dashboard for superstore sales review. Here is the [link](https://public.tableau.com/views/Sales_16487411360790/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+Hello! I have created a dashboard for superstore sales review. Here is the [link](https://public.tableau.com/views/Sales_16487411360790/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) and the second [link](https://public.tableau.com/views/Sales_1_16497467345770/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
