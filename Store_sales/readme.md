@@ -1,4 +1,4 @@
 # Hi,
-##I have created 2 different dashboards depicting the sales reviews of a Superstore. The dataset was available in the Tableau app itself.
+## I have created 2 different dashboards depicting the sales reviews of a Superstore. The dataset was available in the Tableau app itself.
  The first dashboard focuses more on the sales and profit created by the Superstore. The sales as well as profit is displayed with respect to the timeline of orders dispatched. Please click here[https://public.tableau.com/views/Sales_16487411360790/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link] to view the dashboard.
  The second dashboard also displays KPI's regarding sales and profit earned, but at the same time it also shows the sales trend, sales per category of products and sales per state and region. Click here[https://public.tableau.com/views/Sales_1_16497467345770/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link] to check out the dashboard.
